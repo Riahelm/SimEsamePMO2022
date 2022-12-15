@@ -68,7 +68,7 @@ public class Test {
             fail("Wrong exception thrown");
         }
     }
-    /*
+    
     // Testing PowerCountdownImpl: going from 4 to 2
     @org.junit.Test
     public void testPower1() {
@@ -127,7 +127,7 @@ public class Test {
         assertEquals(pcountdown.getValue(),9);
         assertFalse(pcountdown.isOver());
     }
-    
+    /*
     // Testing GameImpl: 3 Levels, 3 moved each
     @org.junit.Test
     public void testGame() {
