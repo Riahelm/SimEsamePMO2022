@@ -32,7 +32,7 @@ import java.util.*;
 
 public class Test {
     
-	/*
+	
 
     // Testing StandardCountdown: going from 3 to 0
     @org.junit.Test
@@ -68,7 +68,7 @@ public class Test {
             fail("Wrong exception thrown");
         }
     }
-    
+    /*
     // Testing PowerCountdownImpl: going from 4 to 2
     @org.junit.Test
     public void testPower1() {
